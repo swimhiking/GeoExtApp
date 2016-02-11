@@ -1,5 +1,5 @@
 $app-name:  dynamic( 'GeoExtApp' );
-$image-search-path: 'C:/Projects/GeoExtApp/build/development/GeoExtApp/classic/resources';
+$image-search-path: 'C:/Projects/git/GeoExtApp/build/development/GeoExtApp/classic/resources';
 $theme-name:  dynamic( 'theme-triton' );
 $include-ext-abstractcomponent: dynamic(true);;
 $include-ext-abstractcontainer: dynamic(true);;
@@ -906,16 +906,19 @@ $include-geoext-mixin-symbolcheck: dynamic(true);;
 $include-geoext-util-layer: dynamic(true);;
 $include-geoextapp-application: dynamic(true);;
 $include-geoextapp-store-personnel: dynamic(true);;
-$include-geoextapp-view-main-list: dynamic(true);;
+$include-geoextapp-view-main-basictreecolumnlegends: dynamic(true);;
 $include-geoextapp-view-main-main: dynamic(true);;
 $include-geoextapp-view-main-maincontroller: dynamic(true);;
 $include-geoextapp-view-main-mainmodel: dynamic(true);;
 $include-geoextapp-view-main-map: dynamic(true);;
-$include-geoextapp-view-main-mapcanvas: dynamic(true);;
-$include-geoextapp-view-main-mapcanvascontroller: dynamic(true);;
-$include-geoextapp-view-main-mapcanvasmodel: dynamic(true);;
 $include-geoextapp-view-main-mapcontroller: dynamic(true);;
+$include-geoextapp-view-main-maplegend: dynamic(true);;
+$include-geoextapp-view-main-maplegendcontroller: dynamic(true);;
+$include-geoextapp-view-main-maplegendmodel: dynamic(true);;
 $include-geoextapp-view-main-mapmodel: dynamic(true);;
+$include-geoextapp-view-main-mappanel: dynamic(true);;
+$include-geoextapp-view-main-mappanelcontroller: dynamic(true);;
+$include-geoextapp-view-main-mappanelmodel: dynamic(true);;
 $output-paths: ("path": "../../classic/resources", "shared": "../../resources");
 
 /* ======================== ETC ======================== */
