@@ -1,6 +1,6 @@
 # GeoExtApp
 
-This project is building web map using pure Open Source products GeoExt3(Sencha Ext6, OpenLayers3). 
+This project is building web map using pure Open Source products GeoExt3(Sencha Ext6, OpenLayers3 and MapGuide Layer). 
 
 
 
@@ -39,7 +39,8 @@ Applications that target a single toolkit will have the following structure.
         src/            # Sass rules
 
 ![geoextspl1](https://cloud.githubusercontent.com/assets/6053471/12969410/578378c6-d03d-11e5-8bb3-93644d4678b5.png)
-![geoextspl2](https://cloud.githubusercontent.com/assets/6053471/12969838/9c95272e-d043-11e5-9763-fc73c9b433d5.png)
+
+![geoextspl3](https://cloud.githubusercontent.com/assets/6053471/13037928/3ff9684c-d348-11e5-8c40-6a906b22ac58.png)
 
 
 
